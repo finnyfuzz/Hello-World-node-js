@@ -1,5 +1,5 @@
 {
-  "name": "Hostinger Express App",
+  "name": "Hello World app",
   "description": "A simple Hello World Express.js web application ready for Hostinger deployment.",
   "requestFramePermissions": []
 }
